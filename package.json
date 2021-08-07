@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/seiya0429/ts-lesson/issues"
   },
-  "homepage": "https://github.com/seiya0429/ts-lesson#readme"
+  "homepage": "https://github.com/seiya0429/ts-lesson#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
